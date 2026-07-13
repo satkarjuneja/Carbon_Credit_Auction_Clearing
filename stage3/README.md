@@ -1,1 +1,0 @@
-Due to propietary nature of the ORBIT simulator the notebooks cannot be made available

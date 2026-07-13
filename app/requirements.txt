@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-openpyxl
-dimod
-dwave-neal
-pulp
